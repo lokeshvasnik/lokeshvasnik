@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @lokeshvasnik
-- 👀 I’m interested in building creative websites 
+- 👀 Huge interest in developing
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on various webs
-- 📫 How to reach me through any social media 
+- 💞️ Tech Stack = ['MERN']
+- 📫 How to reach me through any social media (email) => lokeshvasnik1602@gmail.com 
 
 <!---
 lokeshvasnik/lokeshvasnik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
