@@ -23,7 +23,7 @@ console.log(`Hello ${viewer}`)😁
 - 👀 Huge interest in developing
 - 🌱 Traveling in  React
 - 💞️ Tech Stack = ['MERN']
-- 📫 How to reach me through any social media (email) => lokeshvasnik1602@gmail.com 
+- 📫 Say hello at (email) => lokeshvasnik1602@gmail.com 
 
 
 
