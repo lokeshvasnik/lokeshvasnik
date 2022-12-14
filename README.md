@@ -23,15 +23,10 @@
 
 <h3 align="left">Connect with me:</h3>
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-<p align="left">
-<a href="https://twitter.com/lokesh_vasnik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lokesh_vasnik" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/lokesh vasnik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lokesh vasnik" height="30" width="40" /></a>
-<a href="https://fb.com/nope" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nope" height="30" width="40" /></a>
-<a href="https://instagram.com/lokeshvasnik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lokeshvasnik" height="30" width="40" /></a>
-</p>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+
   
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lokeshvasnik&show_icons=true&theme=dracula&locale=en" alt="lokeshvasnik" /></p>
