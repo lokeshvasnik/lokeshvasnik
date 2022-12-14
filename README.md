@@ -1,9 +1,8 @@
 ![BANNER](https://github.com/lokeshvasnik/lokeshvasnik/blob/main/lokesh_vasnik.png)
 
 <h1 align="center">Hi 👋, I'm Lokesh Vasnik</h1>
-<h3>Hello! My name is Lokesh a passionate self-taught Front-End Developer from India. and I enjoy creating things that live on the internet. My interest in web development started back in 2020 when I decided to try developing. I'm specialized in Web Development heading towards Full Stack!!</h3>
 
-<p> <a href="https://twitter.com/lokesh_vasnik" target="blank"><img src="https://img.shields.io/twitter/follow/lokesh_vasnik?logo=twitter&style=for-the-badge" alt="lokesh_vasnik" /></a> </p>
+<p> <a href="https://twitter.com/heymelokesh" target="blank"><img src="https://img.shields.io/twitter/follow/heymelokesh?logo=twitter&style=for-the-badge" alt="lokesh_vasnik" /></a> </p>
 
 - 🔭 I’m currently working on **portfolio website**
 
