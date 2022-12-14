@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://github.com/lokeshvasnik/WORK-SAVER/blob/main/Resume.pdf](https://github.com/lokeshvasnik/WORK-SAVER/blob/main/Resume.pdf)
 
-![BANNER](https://www.canva.com/design/DAFOuXybsTg/04OnHYtHEj5I9QKYkiipNQ/view?utm_content=DAFOuXybsTg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![BANNER](https://www.canva.com/design/DAFOuXybsTg/8VatgA-EfOcjzxye0hAKzQ/view?utm_content=DAFOuXybsTg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 - ⚡ Tech stack **[M,E,R,N]**
 
