@@ -23,7 +23,9 @@
 
 <h3 align="left">Connect with me:</h3>
 
-![React](https://github.com/lokeshvasnik/lokeshvasnik/blob/main/icons8-react.svg)
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
 
 <h3 align="left">Languages and Tools:</h3>
   
