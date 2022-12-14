@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lokesh Vasnik</h1>
 <h3 align="center">Hello! My name is Lokesh a passionate self-taught Front-End Developer from India. and I enjoy creating things that live on the internet. My interest in web development started back in 2020 when I decided to try developing. I'm specialized in Web Development heading towards Full Stack!!</h3>
 
+![BANNER](https://github.com/lokeshvasnik/lokeshvasnik/blob/main/lokesh_vasnik.png)
+
+
 <p align="left"> <a href="https://twitter.com/lokesh_vasnik" target="blank"><img src="https://img.shields.io/twitter/follow/lokesh_vasnik?logo=twitter&style=for-the-badge" alt="lokesh_vasnik" /></a> </p>
 
 - 🔭 I’m currently working on **portfolio website**
@@ -15,11 +18,11 @@
 
 - 📄 Know about my experiences [https://github.com/lokeshvasnik/WORK-SAVER/blob/main/Resume.pdf](https://github.com/lokeshvasnik/WORK-SAVER/blob/main/Resume.pdf)
 
-![BANNER](https://github.com/lokeshvasnik/lokeshvasnik/blob/main/lokesh_vasnik.png)
 
 - ⚡ Tech stack **[M,E,R,N]**
 
 <h3 align="left">Connect with me:</h3>
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 <p align="left">
 <a href="https://twitter.com/lokesh_vasnik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lokesh_vasnik" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lokesh vasnik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lokesh vasnik" height="30" width="40" /></a>
