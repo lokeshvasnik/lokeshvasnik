@@ -22,11 +22,10 @@
 - ⚡ Tech stack **[M,E,R,N]**
 
 <h3 align="left">Connect with me:</h3>
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+![React](https://github.com/lokeshvasnik/lokeshvasnik/blob/main/icons8-react.svg)
 
 <h3 align="left">Languages and Tools:</h3>
-
   
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lokeshvasnik&show_icons=true&theme=dracula&locale=en" alt="lokeshvasnik" /></p>
