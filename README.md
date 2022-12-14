@@ -15,6 +15,8 @@
 
 - 📄 Know about my experiences [https://github.com/lokeshvasnik/WORK-SAVER/blob/main/Resume.pdf](https://github.com/lokeshvasnik/WORK-SAVER/blob/main/Resume.pdf)
 
+![BANNER](https://www.canva.com/design/DAFOuXybsTg/04OnHYtHEj5I9QKYkiipNQ/view?utm_content=DAFOuXybsTg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 - ⚡ Tech stack **[M,E,R,N]**
 
 <h3 align="left">Connect with me:</h3>
