@@ -38,6 +38,7 @@
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
+![lokesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=lokeshvasnik&show_icons=true&theme=dracula)
 
 
 
