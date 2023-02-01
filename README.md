@@ -4,9 +4,9 @@
 
 <p> <a href="https://twitter.com/heymelokesh" target="blank"><img src="https://img.shields.io/twitter/follow/heymelokesh?logo=twitter&style=for-the-badge" alt="lokesh_vasnik" /></a> </p>
 
-- 🔭 I’m currently working on **[Portfolio website](https://portfolio-2d224.web.app/)**
+- 🔭 I’m currently working on  MERN STACK
 
-- 🌱 I’m currently mastering **React**
+- 🌱 I’m currently mastering **Typescript**
 
 - 👯 Huge interest in developing **React Javascript Apps**
 
