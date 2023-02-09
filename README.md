@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm Lokesh Vasnik</h1>
 
 <p> <a href="https://twitter.com/heymelokesh" target="blank"><img src="https://img.shields.io/twitter/follow/heymelokesh?logo=twitter&style=for-the-badge" alt="lokesh_vasnik" /></a> </p>
-![change](https://komarev.com/ghpvc/?username=lokeshvasnik&color=green)
+![GitHub Views](https://komarev.com/ghpvc/?username=lokeshvasnik)
+
 
 - 🔭 I’m currently working on  MERN STACK
 
