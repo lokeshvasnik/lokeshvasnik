@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **lokeshvasnik1602@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/lokeshvasnik/WORK-SAVER/blob/main/Resume.pdf](https://github.com/lokeshvasnik/WORK-SAVER/blob/main/Resume.pdf)
+- 📄 Know about my experiences [www.lokeshvasnik.codes]
 
 
 - ⚡ Tech stack **[M,E,R,N]**
