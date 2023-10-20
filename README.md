@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on  MERN STACK
 
-- 🌱 I’m currently mastering **Typescript**
+- 🌱 I’m currently mastering **How to get a job in  2023**
 
 - 👯 Huge interest in developing **React Javascript Apps**
 
-- 💬 Ask me about **Html, Css , Javascript , Apis , Figma**
+- 💬 Ask me about **Html, Css , Javascript , Apis ,  React**
 
 - 📫 How to reach me **lokeshvasnik1602@gmail.com**
 
