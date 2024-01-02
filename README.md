@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on  MERN STACK
 
-- 🌱 I’m currently mastering **How to get a job in  2023**
+- 🌱 I’m currently mastering **How to get a job in  2024**
 
 - 👯 Huge interest in developing **React Javascript Apps**
 
 - 💬 Ask me about **Html, Css , Javascript , Apis ,  React**
 
-- 📫 How to reach me **lokeshvasnik1602@gmail.com**
+- 📫 How to reach me **lokeshvasnik2003@gmail.com**
 
 - 📄 Know about my experiences [www.lokeshvasnik.codes]
 
@@ -23,14 +23,56 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a target="_blank"  href="https://www.javascript.com/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="c" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a target="_blank"  href="https://reactjs.org/" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a target="_blank"  href="https://redux.js.org/" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="48" height="48" alt="redux" />
+      </a>
+      <br>Redux
+    </td>
+    <td align="center" width="96">
+      <a target="_blank"  href="https://www.docker.com/" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <a target="_blank"  href="https://tailwindcss.com/">
+        <img src="https://raw.githubusercontent.com/Utkarsh1504/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" />
+      </a>
+      <br>Tailwind CSS
+    </td>
+        <td align="center" width="96">
+      <a target="_blank"  href="https://git-scm.com/" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="git" />
+      </a>
+      <br>Git
+    </td>
+  </tr>
+
+
+</table>
+
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 
